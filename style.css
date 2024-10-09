@@ -1,0 +1,15 @@
+.logo{
+    width:300px;
+    /* margin-left: 10px; */
+}
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1000; /* Add this to bring the header above other elements */
+    background-color: white; /* You can add a background color for better visibility*/
+    width: 100%;
+}
+svg{
+    margin-left: 10px;
+}
+
